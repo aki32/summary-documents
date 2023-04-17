@@ -1,6 +1,6 @@
 # 💖 summary-documents
 
-## ❗Abstract
+## ❗概要
 
 各種まとめ資料です。個人的に使用していたまとめノートをそのまま公開しているだけなので，内容に偏りがある場合があります。ご了承ください。
 
@@ -11,7 +11,7 @@
 
 <br>
 
-## ❗Download
+## ❗クローン
 
 ```
 git clone https://github.com/aki32/summary-documents
